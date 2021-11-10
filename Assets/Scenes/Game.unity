@@ -236,21 +236,25 @@ PrefabInstance:
       propertyPath: m_Name
       value: FreeLookCameraRig (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: 49a0e923d39ec3c4c8bb97699e2f2903, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 400004, guid: 49a0e923d39ec3c4c8bb97699e2f2903, type: 3}
       propertyPath: m_RootOrder
-      value: 7
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 400004, guid: 49a0e923d39ec3c4c8bb97699e2f2903, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.078047514
+      value: 200
       objectReference: {fileID: 0}
     - target: {fileID: 400004, guid: 49a0e923d39ec3c4c8bb97699e2f2903, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.041197777
+      value: 38.172
       objectReference: {fileID: 0}
     - target: {fileID: 400004, guid: 49a0e923d39ec3c4c8bb97699e2f2903, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0.6849456
+      value: 200
       objectReference: {fileID: 0}
     - target: {fileID: 400004, guid: 49a0e923d39ec3c4c8bb97699e2f2903, type: 3}
       propertyPath: m_LocalRotation.w
@@ -580,7 +584,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0645511611cfe264f80a5a5c942b15eb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  PLayerPrefab: {fileID: 2467227992050337209, guid: e2be49860b628764398b05d38b665f51,
+  PLayerPrefab: {fileID: 7987917955260389695, guid: dfd8d37c21c91364caece92c08815cc8,
     type: 3}
 --- !u!4 &1262087444
 Transform:
@@ -794,7 +798,7 @@ RectTransform:
   m_Children:
   - {fileID: 683693612}
   m_Father: {fileID: 0}
-  m_RootOrder: 8
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
